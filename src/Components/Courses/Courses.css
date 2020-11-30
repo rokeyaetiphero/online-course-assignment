@@ -1,0 +1,17 @@
+.course-card
+{
+    width:auto;
+    height:500px;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 10px gray;
+    border: none;
+}
+
+.main-button
+{
+width: 80px;
+height: 30px;
+border-radius: 5px;
+background-color: yellowgreen;
+font-size: medium;
+}
